@@ -136,10 +136,14 @@ LLM is used to:
 - Improve multilingual support for notes  
 
 ---
+## Output screenshots
+<img width="1403" height="583" alt="image" src="https://github.com/user-attachments/assets/904c499c-9a9b-49d4-9bf2-dd76307f32df" />
 
-## Demo
 
-(Add your demo video link here)
+<img width="1252" height="641" alt="image" src="https://github.com/user-attachments/assets/994ef0a8-dae6-439c-9bc4-0974dd8d0840" />
+
+
+
 
 ---
 
