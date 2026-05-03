@@ -132,8 +132,13 @@ LLM is used to:
 - Replace rule-based scoring with ML model  
 - Improve entity resolution for notes mapping  
 - Build a Streamlit dashboard for visualization  
-- Add real-time data pipeline integration  
-- Improve multilingual support for notes  
+- Add real-time data pipeline integration
+- Improve multilingual support for notes
+   
+--- 
+## Demo Link 
+
+https://drive.google.com/file/d/1w-hfn0SdRgsTkQ0UMIpEHCmwkQX09vsh/view?usp=drive_link
 
 ---
 ## Output screenshots
